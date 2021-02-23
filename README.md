@@ -22,7 +22,7 @@ Error: btnapp/btn-django-sphinx-deploy-action/v1/action.yml (Line: 8, Col: 7): U
 
 As such, copy task into job, with the following secrets set. 
 
-#Secrets: 
+## Secrets: 
 
 * `SSH_KEY`
 * `SSH_KNOWN_HOSTS`
