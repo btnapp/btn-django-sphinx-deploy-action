@@ -4,7 +4,7 @@ GitHub Action to build and rsync Sphinx JSON builder docs.
 The idea was to include this via `uses` as a `composite` action. 
 
 This isn't currently supported by GHA. 
-See https://github.com/actions/runner/issues/646 
+See https://github.com/actions/runner/issues/646 and [#1](https://github.com/btnapp/btn-django-sphinx-deploy-action/issues/1)
 
 
 ```
